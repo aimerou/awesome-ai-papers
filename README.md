@@ -11,9 +11,9 @@ Maintainer: [aimerou](https://github.com/aimerou)
 * DD/MM/YYYY: [Title of the article](https://arxiv.org/abs/...)
 
 ## 2022 Papers
-* DD/MM/YYYY: [Title of the article](https://arxiv.org/abs/...)
-* DD/MM/YYYY: [Title of the article](https://arxiv.org/abs/...)
+* DD/MM: [Title of the article](https://arxiv.org/abs/...)
+* DD/MM: [Title of the article](https://arxiv.org/abs/...)
 
 ## 2023 Papers
-* DD/MM/YYYY: [Title of the article](https://arxiv.org/abs/...)
-* DD/MM/YYYY: [Title of the article](https://arxiv.org/abs/...)
+* DD/MM: [Title of the article](https://arxiv.org/abs/...)
+* DD/MM: [Title of the article](https://arxiv.org/abs/...)
