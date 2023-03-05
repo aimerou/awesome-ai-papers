@@ -26,7 +26,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 * 2020: [Denoising Diffusion Probabilistic Models (DDPM)](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
 * 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
-* 2022: [ChatGPT: Optimizing Language Models For Dialogue](https://openai.com/blog/chatgpt/)
+* 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 
 ## 2022 Papers
 * DD/MM: [Title of the article](https://arxiv.org/abs/...)
