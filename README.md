@@ -1,6 +1,6 @@
 # Outstanding AI Papers - A Review ⭐️
 
-This repository contains a list of the most notable research papers in AI classified by year and date of publication. We regularly update this work so if you have any suggestions for interesting papers we will welcome them with great pleasure. If you like this work, feel free to put a star on this repo.
+The most significant AI research papers are listed in this collection and are organized by publication date. We update this work frequently, so if you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
