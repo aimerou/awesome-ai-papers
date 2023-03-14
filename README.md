@@ -72,7 +72,6 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 09/12: [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints (MoE Training)](https://arxiv.org/abs/2212.05055)
 * 13/12: [RT-1: Robotics Transformer for Real World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
 * 15/12: [Constitutional AI: Harmless from AI Feedback (Harmless Assistant)](https://arxiv.org/abs/2212.08073)
-* 19/12: [DSI++: Updating Transformer Memory with New Documents (DSI++)](https://arxiv.org/abs/2212.09744)
 
 ## 2023 Papers
 * 05/01: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
