@@ -69,7 +69,6 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 16/10: [LAION-5B: An open large-scale dataset for training next generation image-text models (LAION-5B)](https://arxiv.org/abs/2210.08402)
 * 30/11: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 * 06/12: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
-* 09/12: [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints (MoE Training)](https://arxiv.org/abs/2212.05055)
 * 13/12: [RT-1: Robotics Transformer for Real World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
 * 15/12: [Constitutional AI: Harmless from AI Feedback (Harmless Assistant)](https://arxiv.org/abs/2212.08073)
 
