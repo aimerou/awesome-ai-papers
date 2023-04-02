@@ -10,41 +10,23 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
 ## Historical Papers
 * 1958: [The perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
-   > Write a short description of the paper here.
 * 1975: [Cognitron: A self-organizing multilayered neural network (MLP)](https://link.springer.com/article/10.1007/BF00342633)
-  > Write a short description of the paper here.
 * 1984: [Classification and Regression Trees (CART)](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman)
-  > Write a short description of the paper here.
 * 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
-  > Write a short description of the paper here.
 * 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
-  > Write a short description of the paper here.
 * 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
-  > Write a short description of the paper here.
 * 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
-  > Write a short description of the paper here.
 * 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-  > Write a short description of the paper here.
 * 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
-  > Write a short description of the paper here.
 * 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
-  > Write a short description of the paper here.
 * 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
-  > Write a short description of the paper here.
 * 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
-  > Write a short description of the paper here.
 * 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
-  > Write a short description of the paper here.
 * 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
-  > Write a short description of the paper here.
 * 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
-  > Write a short description of the paper here.
 * 2020: [Denoising Diffusion Probabilistic Models (DDPM)](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
-  > Write a short description of the paper here.
 * 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
-  > Write a short description of the paper here.
 * 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
-  > Write a short description of the paper here.
 
 ## 2022 Papers
 * 10/01: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
