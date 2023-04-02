@@ -1,6 +1,6 @@
 # Outstanding AI Papers - A Review ⭐️
 
-The most significant AI research papers are listed in this collection and are organized by publication date. We update this work frequently, so if you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
+The most significant AI research papers are listed in this collection and are organized by publication date. This repository covers five areas: natural language processing (NLP), computer vision, audio processing, multimodal learning and reinforcement learning. We update this work frequently, so if you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
