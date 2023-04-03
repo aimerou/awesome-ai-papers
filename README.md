@@ -97,6 +97,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 26/01: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * 29/01: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 * 04/03: [Prismer: A Vision-Language Model with An Ensemble of Experts (Prismer)](https://arxiv.org/abs/2303.02506)
+* 06/03: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 
 ## Reinforcement Learning
 * 19/01: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
