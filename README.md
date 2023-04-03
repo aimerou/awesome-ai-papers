@@ -1,6 +1,6 @@
 # Outstanding AI Papers - A Review ⭐️
 
-The most significant AI research papers are listed in this collection and are organized by publication date. This repository covers four fields : natural language processing (NLP), computer vision, multimodal learning, audio processing and reinforcement learning. We update this work frequently, so if you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
+The most significant AI research papers since 2022 are listed in this collection and are organized by publication date. This repository covers five fields : natural language processing (NLP), computer vision, multimodal learning, audio processing and reinforcement learning. We update this work frequently, so if you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
@@ -43,6 +43,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 11/07: [No Language Left Behind: Scaling Human-Centered Machine Translation (NLLB-200)](https://arxiv.org/abs/2207.04672)
 * 06/10: [Language Models are Multilingual Chain-of-Thought Reasoners (mCoT)](https://arxiv.org/abs/2210.03057)
 * 06/10: [ReAct: Synergizing Reasoning and Acting in Language Models (ReAct)](https://arxiv.org/abs/2210.03629)
+* 09/11: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * 30/11: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 * 15/12: [Constitutional AI: Harmless from AI Feedback (Harmless Assistant)](https://arxiv.org/abs/2212.08073)
 * 26/01: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
@@ -66,16 +67,22 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 14/06: [CMT: Convolutional Neural Network Meet Vision Transformers (CMT)](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.html)
 * 25/08: [Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (DreamBooth)](https://arxiv.org/abs/2208.12242)
 * 29/09: [DreamFusion: Text-to-3D using 2D Diffusion (DreamFusion)](https://arxiv.org/abs/2209.14988)
+* 29/09: [Make-A-Video: Text-to-Video Generation without Text-Video Data (Make-A-Video)](https://arxiv.org/abs/2209.14792)
 * 16/10: [LAION-5B: An open large-scale dataset for training next generation image-text models (LAION-5B)](https://arxiv.org/abs/2210.08402)
+* 23/01: [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis (StyleGAN-T)](https://arxiv.org/abs/2301.09515)
 * 10/02: [Scaling Vision Transformers to 22 Billion Parameters (ViT 22B)](https://arxiv.org/abs/2302.05442)
 * 10/02: [Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)](https://arxiv.org/abs/2302.05543)
+* 04/03: [Prismer: A Vision-Language Model with An Ensemble of Experts (Prismer)](https://arxiv.org/abs/2303.02506)
 * 08/03: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Visual ChatGPT)](https://arxiv.org/abs/2303.04671)
+* 09/03: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * 16/03: [LERF: Language Embedded Radiance Fields (LERF)](https://arxiv.org/abs/2303.09553v1)
 
 ## Audio Processing
 * 07/09: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
 * 06/12: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
 * 05/01: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
+* 26/01: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
+* 29/01: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 
 ## Multimodal Learning
 * 28/01: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
@@ -83,15 +90,18 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 29/04: [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198)
 * 12/05: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
 * 04/05: [CoCa: Contrastive Captioners are Image-Text Foundation Models (CoCa)](https://arxiv.org/abs/2205.01917)
+* 14/09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
 * 29/09: [Make-A-Video: Text-to-Video Generation without Text-Video Data (Make-A-Video)](https://arxiv.org/abs/2209.14792)
 * 13/12: [RT-1: Robotics Transformer for Real World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
 * 26/01: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
+* 29/01: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 * 04/03: [Prismer: A Vision-Language Model with An Ensemble of Experts (Prismer)](https://arxiv.org/abs/2303.02506)
 
 ## Reinforcement Learning
 * 19/01: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * 09/02: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo RL)](https://www.nature.com/articles/s41586-021-04357-7)
 * 16/02: [Magnetic control of tokamak plasmas through deep reinforcement learning (Tokamak Control)](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
+* 12/05: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
 * 17/06: [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (NeurIPS Best Paper)](https://arxiv.org/abs/2206.08853)
 * 05/10: [Discovering faster matrix multiplication algorithms with reinforcement learning (AlphaTensor)](https://www.nature.com/articles/s41586-022%20-05172-4)
 * 10/01: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
