@@ -52,7 +52,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 02/2023: [The Wisdom of Hindsight Makes Language Models Better Instruction Followers (HIR)](https://arxiv.org/abs/2302.05206)
 * 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * 03/2023: [GPT-4](https://openai.com/research/gpt-4)
-* 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Evaluations)](https://arxiv.org/abs/2303.12712)
+* 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Evaluation)](https://arxiv.org/abs/2303.12712)
 * 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
 
 ## Computer Vision
