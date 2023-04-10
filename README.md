@@ -78,6 +78,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 03/2023: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Visual ChatGPT)](https://arxiv.org/abs/2303.04671)
 * 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * 03/2023: [LERF: Language Embedded Radiance Fields (LERF)](https://arxiv.org/abs/2303.09553v1)
+* 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 
 ## Audio Processing
 * 09/2022: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
