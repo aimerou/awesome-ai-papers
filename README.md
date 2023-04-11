@@ -94,6 +94,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
+* 04/2023: [AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models (AUDIT)](https://arxiv.org/abs/2304.00830)
 
 ## Multimodal Learning
 * 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
