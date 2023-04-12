@@ -56,6 +56,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Evaluation)](https://arxiv.org/abs/2303.12712)
 * 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
+* 04/2023: [Generative Agents: Interactive Simulacra of Human Behavior (Generative Agents)](https://arxiv.org/abs/2304.03442)
 
 ## Computer Vision
 * 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
