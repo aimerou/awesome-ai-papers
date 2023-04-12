@@ -128,7 +128,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 * 01/2023: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
 * 02/2023: [Grounding Large Language Models in Interactive Environments with Online RL (Grounding LLM)](https://arxiv.org/abs/2302.02662v1)
 * 02/2023: [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills (ManiSkill2)](https://arxiv.org/abs/2302.04659v1)
-* 03/2023: [Reward Design with Language Models (RD)](https://arxiv.org/abs/2303.00001v1)
+* 03/2023: [Reward Design with Language Models (RD-LLM)](https://arxiv.org/abs/2303.00001v1)
 * 03/2023: [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (ALOHA)](https://tonyzhaozh.github.io/aloha/)
 * 04/2023: [DiffMimic: Efficient Motion Mimicking with Differentiable Physics (DiffMimic)](https://arxiv.org/abs/2304.03274)
 
