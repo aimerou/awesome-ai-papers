@@ -114,7 +114,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 ## Reinforcement Learning
 * 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * 02/2022: [Accelerated Quality-Diversity through Massive Parallelism (QDax)](https://arxiv.org/abs/2202.01258)
-* 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo RL)](https://www.nature.com/articles/s41586-021-04357-7)
+* 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo)](https://www.nature.com/articles/s41586-021-04357-7)
 * 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning (Tokamak Control)](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
 * 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
 * 06/2022: [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (MineDojo)](https://arxiv.org/abs/2206.08853)
