@@ -113,13 +113,20 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
 ## Reinforcement Learning
 * 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
+* 02/2022: [Accelerated Quality-Diversity through Massive Parallelism (QDax)](https://arxiv.org/abs/2202.01258)
 * 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo RL)](https://www.nature.com/articles/s41586-021-04357-7)
 * 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning (Tokamak Control)](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
 * 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
 * 06/2022: [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge (MineDojo)](https://arxiv.org/abs/2206.08853)
 * 10/2022: [Discovering faster matrix multiplication algorithms with reinforcement learning (AlphaTensor)](https://www.nature.com/articles/s41586-022%20-05172-4)
+* 10/2022: [DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality (DeXtreme)](https://arxiv.org/abs/2210.13702)
+* 11/2022: [Benchmarking Quality-Diversity Algorithms on Neuroevolution for Reinforcement Learning (QD-RL)](https://arxiv.org/abs/2211.02193)
 * 01/2023: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
+* 02/2023: [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning (Grounding LLM)](https://arxiv.org/abs/2302.02662v1)
+* 02/2023: [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills (ManiSkill2)](https://arxiv.org/abs/2302.04659v1)
+* 03/2023: [Reward Design with Language Models (RD)](https://arxiv.org/abs/2303.00001v1)
 * 03/2023: [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (ALOHA)](https://tonyzhaozh.github.io/aloha/)
+* 04/2023: [DiffMimic: Efficient Motion Mimicking with Differentiable Physics (DiffMimic)](https://arxiv.org/abs/2304.03274)
 
 ## Other Papers
 * 05/2022: [FlashAttention: Fast and Memory-Efficient Exact Attention with 10-Awareness (FlashAttention)](https://arxiv.org/abs/2205.14135)
