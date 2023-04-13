@@ -11,7 +11,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 :fire: (Historical Paper): more than 10k citations and a decisive impact in the evolution of AI.
 
-:star2: (Important Paper): more than 50 citations and substantial results related to the state of the art or the advancement of the field.
+:star2: (Important Paper): more than 50 citations and state of the art results.
 
 :arrow_double_up: (Trend): 5 to 50 citations, innovative contribution and growing adoption.
 
