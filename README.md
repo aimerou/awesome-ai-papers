@@ -18,7 +18,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ----
 
 ## Historical Papers
-* 1958: [The perceptron: A probabilistic model for information storage and organization in the brain (Perceptron) :fire:](https://psycnet.apa.org/record/1959-09865-001)
+* 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron) :fire:](https://psycnet.apa.org/record/1959-09865-001)
 * 1986: [Learning representations by back-propagating errors (Backpropagation) :fire:](https://www.nature.com/articles/323533a0)
 * 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM) :fire:](https://ieeexplore.ieee.org/abstract/document/18626)
 * 1992: [A training algorithm for optimal margin classifiers (SVM) :fire:](https://dl.acm.org/doi/10.1145/130385.130401)
