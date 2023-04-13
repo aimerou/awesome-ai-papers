@@ -15,6 +15,8 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 :arrow_double_up: (Trend): 5 to 50 citations, innovative contribution and growing adoption.
 
+:newspaper: (Important Article): decisive work that was not accompanied by a research paper.
+
 ----
 
 ## Historical Papers
@@ -22,22 +24,21 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * 1986: [Learning representations by back-propagating errors (Backpropagation) :fire:](https://www.nature.com/articles/323533a0)
 * 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM) :fire:](https://ieeexplore.ieee.org/abstract/document/18626)
 * 1992: [A training algorithm for optimal margin classifiers (SVM) :fire:](https://dl.acm.org/doi/10.1145/130385.130401)
-* 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
-* 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
-* 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-* 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
-* 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
-* 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
-* 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
-* 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
-* 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
-* 2015: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
-* 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
-* 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
-* 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
-* 2020: [Denoising Diffusion Probabilistic Models (DDPM)](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
-* 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
-* 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
+* 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost) :fire:](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+* 1998: [Gradient-based learning applied to document recognition (CNN/GTN) :fire:](https://ieeexplore.ieee.org/abstract/document/726791)
+* 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) :fire:](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+* 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec) :fire:](https://arxiv.org/abs/1301.3781)
+* 2014: [Generative Adversarial Networks (GAN) :fire:](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
+* 2014: [Adam: A Method for Stochastic Optimization (Adam) :fire:](https://arxiv.org/abs/1412.6980)
+* 2015: [Human-level control through deep reinforcement learning (Deep Q Network) :fire:](https://www.nature.com/articles/nature14236/)
+* 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN) :fire:](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
+* 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net) :fire:](https://arxiv.org/abs/1505.04597)
+* 2015: [Deep Residual Learning for Image Recognition (ResNet) :fire:](https://arxiv.org/abs/1512.03385)
+* 2017: [Attention is All you Need (Transformer) :fire:](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+* 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT) :fire:](https://arxiv.org/abs/1810.04805)
+* 2020: [Language Models are Few-Shot Learners (GPT-3) :fire:](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+* 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold) :fire:](https://www.nature.com/articles/s41586-021-03819-2)
+* 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT) :newspaper:](https://openai.com/blog/chatgpt/)
 
 ## NLP
 * 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
