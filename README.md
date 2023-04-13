@@ -13,17 +13,15 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 :star2: (Important Paper): more than 50 citations and substantial results related to the state of the art or the advancement of the field.
 
-:arrow_double_up: (Trend): less than 50 citations, innovative contribution and growing adoption.
+:arrow_double_up: (Trend): 5 to 50 citations, innovative contribution and growing adoption.
 
 ----
 
 ## Historical Papers
-* 1958: [The perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
-* 1975: [Cognitron: A self-organizing multilayered neural network (MLP)](https://link.springer.com/article/10.1007/BF00342633)
-* 1984: [Classification and Regression Trees (CART)](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman)
-* 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
-* 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
-* 1992: [A training algorithm for optimal margin classifiers (SVM)](https://dl.acm.org/doi/10.1145/130385.130401)
+* 1958: [The perceptron: A probabilistic model for information storage and organization in the brain (Perceptron :fire:)](https://psycnet.apa.org/record/1959-09865-001)
+* 1986: [Learning representations by back-propagating errors (Backpropagation :fire:)](https://www.nature.com/articles/323533a0)
+* 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM :fire:)](https://ieeexplore.ieee.org/abstract/document/18626)
+* 1992: [A training algorithm for optimal margin classifiers (SVM :fire:)](https://dl.acm.org/doi/10.1145/130385.130401)
 * 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
 * 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
 * 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
