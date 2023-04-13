@@ -6,6 +6,10 @@ Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
 Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
+## Taxonomy
+To select the most relevant papers, we chose subjective limits in terms of number of citations.
+:fire: (Historical Paper): more than 10k citations and a decisive impact in the evolution of AI
+
 ----
 
 ## Historical Papers
