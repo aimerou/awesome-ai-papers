@@ -1,5 +1,7 @@
 # Top AI Papers - A Review ⭐️
 
+## Description
+
 Many of the most significant AI papers since 2022 are listed in this collection and are organized by publication date. This repository covers five fields : natural language processing (NLP), computer vision, multimodal learning, audio processing and reinforcement learning. Papers are primarily ranked by number of citations and by their degree of innovation in the field. If you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
