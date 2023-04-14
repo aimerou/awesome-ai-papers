@@ -90,7 +90,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 05/2022: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen)](https://arxiv.org/abs/2205.11487)
 * :star: 05/2022: [GIT: A Generative Image-to-text Transformer for Vision and Language (GIT)](https://arxiv.org/abs/2205.14100)
 * :star: 06/2022: [CMT: Convolutional Neural Network Meet Vision Transformers (CMT)](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.html)
-* :star: 07/2022: [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images (Swin UNETR)](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22)
+* :star: 07/2022: [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI... (Swin UNETR)](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22)
 * :star: 07/2022: [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
 * :star: 08/2022: [Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (DreamBooth)](https://arxiv.org/abs/2208.12242)
 * :star: 09/2022: [DreamFusion: Text-to-3D using 2D Diffusion (DreamFusion)](https://arxiv.org/abs/2209.14988)
