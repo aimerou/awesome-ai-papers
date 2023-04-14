@@ -102,18 +102,13 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 03/2023: [Reward Design with Language Models (RD-LLM)](https://arxiv.org/abs/2303.00001v1)
 
 ## Audio Processing
-* :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
-* :star: 04/2022: [MAESTRO: Matched Speech Text Representations through Modality Matching (MAESTRO)](https://arxiv.org/abs/2204.03409)
-* :star: 05/2022: [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality (NaturalSpeech)](https://arxiv.org/abs/2205.04421)
 * :star: 05/2022: [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language... (SpeechT5)](https://arxiv.org/abs/2110.07205)
 * :star: 06/2022: [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (WavLM)](https://ieeexplore.ieee.org/abstract/document/9814838)
-* :star: 09/2022: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
-* :star: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
+* :arrow_double_up: 09/2022: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
-* :star: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
+* :arrow_double_up: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :arrow_double_up: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
-* :arrow_double_up: 04/2023: [AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models (AUDIT)](https://arxiv.org/abs/2304.00830)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
@@ -126,15 +121,12 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
 * :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
 * :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
-* :arrow_double_up: 09/2022: [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering (mCoT)](https://arxiv.org/abs/2209.09513)
 * :arrow_double_up: 11/2022: [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (EVA)](https://arxiv.org/abs/2211.07636)
-* :arrow_double_up: 12/2022: [InternVideo: General Video Foundation Models via Generative and Discriminative... (InternVideo)](https://arxiv.org/abs/2212.03191v2)
 * :arrow_double_up: 12/2022: [CLIPPO: Image-and-Language Understanding from Pixels Only (CLIPPO)](https://arxiv.org/abs/2212.08045)
 * :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
-* :arrow_double_up: 03/2023: [Prismer: A Vision-Language Model with An Ensemble of Experts (Prismer)](https://arxiv.org/abs/2303.02506)
 * :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 
 ## Other Papers
-* :star: 05/2022: [FlashAttention: Fast and Memory-Efficient Exact Attention with 10-Awareness (FlashAttention)](https://arxiv.org/abs/2205.14135)
+* :arrow_double_up: 05/2022: [FlashAttention: Fast and Memory-Efficient Exact Attention with 10-Awareness (FlashAttention)](https://arxiv.org/abs/2205.14135)
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :arrow_double_up: 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
