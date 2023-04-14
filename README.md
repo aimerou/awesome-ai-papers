@@ -62,6 +62,8 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 03/2022: [Training language models to follow human instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 * :star: 03/2022: [Multitask Prompted Training Enables Zero-Shot Task Generalization (T0)](https://arxiv.org/abs/2110.08207)
 * :star: 03/2022: [Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/abs/2203.15556)
+* :star: 04/2022: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)](https://arxiv.org/abs/2204.01691)
+* :star: 04/2022: [GPT-NeoX-20B: An Open-Source Autoregressive Language Model (GPT-NeoX)](https://arxiv.org/abs/2204.06745)
 * :star: 04/2022: [PaLM: Scaling Language Modeling with Pathways (PaLM)](https://arxiv.org/abs/2204.02311)
 * :star: 06/2022: [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of lang... (BIG-bench)](https://arxiv.org/abs/2206.04615)
 * :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
@@ -120,6 +122,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * :star: 01/2022: [Decision making of autonomous vehicles in lane change scenarios... (Safe AV)](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004411)
+* :star: 02/2022: [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning (BC-Z)](https://proceedings.mlr.press/v164/jang22a.html)
 * :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo)](https://www.nature.com/articles/s41586-021-04357-7)
 * :star: 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning (Tokamak Control)](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
 * :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
