@@ -89,6 +89,22 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * :arrow_double_up: 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 
+## Multimodal Learning
+* :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
+* :star: 02/2022: [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and... (Data2vec)](https://proceedings.mlr.press/v162/baevski22a.html)
+* :star: 03/2022: [VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (VL-Adapter)](https://arxiv.org/abs/2112.06825)
+* :star: 04/2022: [Winoground: Probing Vision and Language Models for Visio-Linguistic... (Winoground)](https://arxiv.org/abs/2204.03162)
+* :star: 04/2022: [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198)
+* :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
+* :star: 05/2022: [CoCa: Contrastive Captioners are Image-Text Foundation Models (CoCa)](https://arxiv.org/abs/2205.01917)
+* :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
+* :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
+* :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
+* :arrow_double_up: 11/2022: [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (EVA)](https://arxiv.org/abs/2211.07636)
+* :arrow_double_up: 12/2022: [CLIPPO: Image-and-Language Understanding from Pixels Only (CLIPPO)](https://arxiv.org/abs/2212.08045)
+* :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
+* :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
+
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * :star: 01/2022: [Decision making of autonomous vehicles in lane change scenarios... (Safe AV)](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004411)
@@ -108,22 +124,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :arrow_double_up: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
-
-## Multimodal Learning
-* :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
-* :star: 02/2022: [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and... (Data2vec)](https://proceedings.mlr.press/v162/baevski22a.html)
-* :star: 03/2022: [VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (VL-Adapter)](https://arxiv.org/abs/2112.06825)
-* :star: 04/2022: [Winoground: Probing Vision and Language Models for Visio-Linguistic... (Winoground)](https://arxiv.org/abs/2204.03162)
-* :star: 04/2022: [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198)
-* :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
-* :star: 05/2022: [CoCa: Contrastive Captioners are Image-Text Foundation Models (CoCa)](https://arxiv.org/abs/2205.01917)
-* :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
-* :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
-* :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
-* :arrow_double_up: 11/2022: [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (EVA)](https://arxiv.org/abs/2211.07636)
-* :arrow_double_up: 12/2022: [CLIPPO: Image-and-Language Understanding from Pixels Only (CLIPPO)](https://arxiv.org/abs/2212.08045)
-* :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
-* :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
