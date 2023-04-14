@@ -85,13 +85,17 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 03/2022: [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (DINO)](https://openreview.net/forum?id=3mRwyG5one)
 * :star: 03/2022: [Scaling Up Your Kernels to 31×31: Revisiting Large Kernel Design in CNNs (Large Kernel CNN)](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Scaling_Up_Your_Kernels_to_31x31_Revisiting_Large_Kernel_Design_CVPR_2022_paper.html)
 * :star: 03/2022: [TensoRF: Tensorial Radiance Fields (TensoRF)](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_20)
+* :star: 04/2022: [Swin Transformer V2: Scaling Up Capacity and Resolution (Swin-T V2)](https://arxiv.org/abs/2111.09883)
 * :star: 04/2022: [Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2)](https://arxiv.org/abs/2204.06125)
 * :star: 05/2022: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen)](https://arxiv.org/abs/2205.11487)
 * :star: 05/2022: [GIT: A Generative Image-to-text Transformer for Vision and Language (GIT)](https://arxiv.org/abs/2205.14100)
 * :star: 06/2022: [CMT: Convolutional Neural Network Meet Vision Transformers (CMT)](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.html)
+* :star: 07/2022: [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images (Swin UNETR)](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22)
+* :star: 07/2022: [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
 * :star: 08/2022: [Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (DreamBooth)](https://arxiv.org/abs/2208.12242)
 * :star: 09/2022: [DreamFusion: Text-to-3D using 2D Diffusion (DreamFusion)](https://arxiv.org/abs/2209.14988)
 * :star: 09/2022: [Make-A-Video: Text-to-Video Generation without Text-Video Data (Make-A-Video)](https://arxiv.org/abs/2209.14792)
+* :star: 09/2022: [Visual Prompt Tuning](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_41)
 * :star: 10/2022: [LAION-5B: An open large-scale dataset for training next generation image-text models (LAION-5B)](https://arxiv.org/abs/2210.08402)
 * :arrow_double_up: 11/2022: [InstructPix2Pix: Learning to Follow Image Editing Instructions (InstructPix2Pix)](https://arxiv.org/abs/2211.09800)
 * :arrow_double_up: 12/2022: [Scalable Diffusion Models with Transformers (DiT)](https://arxiv.org/abs/2212.09748)
@@ -142,4 +146,5 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
+* :star: 05/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * :arrow_double_up: 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
