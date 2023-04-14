@@ -40,7 +40,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :trophy: 2014: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Dropout)](https://jmlr.org/papers/v15/srivastava14a.html)
 * :trophy: 2014: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical MT (RNN Encdec)](https://arxiv.org/abs/1406.1078)
 * :trophy: 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
-* :trophy: 2014: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov... (BatchNorm)](http://proceedings.mlr.press/v37/ioffe15.html)
+* :trophy: 2015: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov... (BatchNorm)](http://proceedings.mlr.press/v37/ioffe15.html)
 * :trophy: 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
 * :trophy: 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
 * :trophy: 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
