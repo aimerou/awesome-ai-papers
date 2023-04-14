@@ -11,8 +11,9 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
-* :fire: (Historical Paper): more than 10k citations and a decisive impact in the evolution of AI.
-* :star2: (Important Paper): more than 50 citations and state of the art results.
+:fire: (Historical Paper): more than 10k citations and a decisive impact in the evolution of AI.
+
+:star2: (Important Paper): more than 50 citations and state of the art results.
 
 :arrow_double_up: (Trend): 5 to 50 citations, innovative contribution and growing adoption.
 
@@ -21,9 +22,9 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ----
 
 ## Historical Papers
-:fire: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
+* :fire: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 
-:fire: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
+* :fire: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 
 :fire: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
 
