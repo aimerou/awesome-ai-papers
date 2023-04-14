@@ -15,7 +15,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 :star: (Important Paper): more than 50 citations and state of the art results.
 
-:arrow_double_up: (Trend): 5 to 50 citations, recent and innovative paper with growing adoption.
+:arrow_double_up: (Trend): 1 to 50 citations, recent and innovative paper with growing adoption.
 
 :newspaper: (Decisive Article): decisive work that was not accompanied by a research paper.
 
@@ -47,28 +47,22 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 01/2022: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (CoT)](https://arxiv.org/abs/2201.11903)
 * :star: 02/2022: [Competition-Level Code Generation with AlphaCode (AlphaCode)](https://www.science.org/doi/full/10.1126/science.abq1158)
 * :star: 02/2022: [Finetuned Language Models Are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
-* :star: 02/2022: [Transformer Memory as a Differentiable Search Index (DSI)](https://arxiv.org/abs/2202.06991)
 * :star: 03/2022: [Training language models to follow human instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 * :star: 03/2022: [Multitask Prompted Training Enables Zero-Shot Task Generalization (T0)](https://arxiv.org/abs/2110.08207)
 * :star: 03/2022: [Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/abs/2203.15556)
 * :star: 04/2022: [PaLM: Scaling Language Modeling with Pathways (PaLM)](https://arxiv.org/abs/2204.02311)
 * :star: 06/2022: [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of lang... (BIG-bench)](https://arxiv.org/abs/2206.04615)
 * :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
-* :star: 07/2022: [No Language Left Behind: Scaling Human-Centered Machine Translation (NLLB-200)](https://arxiv.org/abs/2207.04672)
-* :star: 10/2022: [Language Models are Multilingual Chain-of-Thought Reasoners (mCoT)](https://arxiv.org/abs/2210.03057)
-* :star: 10/2022: [ReAct: Synergizing Reasoning and Acting in Language Models (ReAct)](https://arxiv.org/abs/2210.03629)
 * :star: 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * :newspaper: 11/2022: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 * :arrow_double_up: 12/2022: [Constitutional AI: Harmless from AI Feedback (Harmless Assistant)](https://arxiv.org/abs/2212.08073)
 * :arrow_double_up: 01/2023: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
 * :arrow_double_up: 02/2023: [Multimodal Chain-of-Thought Reasoning in Language Models (Multimodal-CoT)](https://arxiv.org/abs/2302.00923)
 * :arrow_double_up: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
-* :arrow_double_up: 02/2023: [The Wisdom of Hindsight Makes Language Models Better Instruction Followers (HIR)](https://arxiv.org/abs/2302.05206)
 * :arrow_double_up: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * :arrow_double_up: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
-* :arrow_double_up: 04/2023: [Generative Agents: Interactive Simulacra of Human Behavior (Generative Agents)](https://arxiv.org/abs/2304.03442)
 
 ## Computer Vision
 * :star: 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
