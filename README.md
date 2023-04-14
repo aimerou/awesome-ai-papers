@@ -17,7 +17,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 :arrow_double_up: Trend : 1 to 50 citations, recent and innovative paper with growing adoption.
 
-:newspaper: Decisive Article : decisive work that was not accompanied by a research paper.
+:newspaper: Important Article : decisive work that was not accompanied by a research paper.
 
 ----
 
