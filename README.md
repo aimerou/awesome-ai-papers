@@ -11,13 +11,13 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
-:fire: Historical Paper: more than 10k citations and a decisive impact in the evolution of AI.
+:fire: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
 
-:star: Important Paper: more than 50 citations and state of the art results.
+:star: Important Paper : more than 50 citations and state of the art results.
 
-:arrow_double_up: Trend: 1 to 50 citations, recent and innovative paper with growing adoption.
+:arrow_double_up: Trend : 1 to 50 citations, recent and innovative paper with growing adoption.
 
-:newspaper: Decisive Article: decisive work that was not accompanied by a research paper.
+:newspaper: Decisive Article : decisive work that was not accompanied by a research paper.
 
 ----
 
