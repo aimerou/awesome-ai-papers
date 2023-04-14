@@ -22,9 +22,9 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ----
 
 ## Historical Papers
-* :fire: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
-* :fire: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
-* :fire: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
+* :trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
+* :trophy: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
+* :trophy: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
 * :fire: 1992: [A training algorithm for optimal margin classifiers (SVM)](https://dl.acm.org/doi/10.1145/130385.130401)
 * :fire: 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
 * :fire: 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
