@@ -127,6 +127,5 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 
 ## Other Papers
-* :arrow_double_up: 05/2022: [FlashAttention: Fast and Memory-Efficient Exact Attention with 10-Awareness (FlashAttention)](https://arxiv.org/abs/2205.14135)
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :arrow_double_up: 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
