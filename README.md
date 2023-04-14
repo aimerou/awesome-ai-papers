@@ -11,7 +11,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
-:fire: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
+:trophy: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
 
 :star: Important Paper : more than 50 citations and state of the art results.
 
@@ -25,21 +25,21 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 * :trophy: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 * :trophy: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
-* :fire: 1992: [A training algorithm for optimal margin classifiers (SVM)](https://dl.acm.org/doi/10.1145/130385.130401)
-* :fire: 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
-* :fire: 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
-* :fire: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-* :fire: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
-* :fire: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
-* :fire: 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
-* :fire: 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
-* :fire: 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
-* :fire: 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
-* :fire: 2015: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
-* :fire: 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
-* :fire: 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
-* :fire: 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
-* :fire: 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
+* :trophy: 1992: [A training algorithm for optimal margin classifiers (SVM)](https://dl.acm.org/doi/10.1145/130385.130401)
+* :trophy: 1997: [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (Adaboost)](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+* :trophy: 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
+* :trophy: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+* :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
+* :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
+* :trophy: 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
+* :trophy: 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
+* :trophy: 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
+* :trophy: 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
+* :trophy: 2015: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
+* :trophy: 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+* :trophy: 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+* :trophy: 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+* :trophy: 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
 * :newspaper: 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 
 ## NLP
