@@ -40,7 +40,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
 * :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
 * :trophy: 2014: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Dropout)](https://jmlr.org/papers/v15/srivastava14a.html)
-* :trophy: 2014: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical MT (RNN Encdec)](https://arxiv.org/abs/1406.1078)
+* :trophy: 2014: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 * :trophy: 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
 * :trophy: 2015: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov... (BatchNorm)](http://proceedings.mlr.press/v37/ioffe15.html)
 * :trophy: 2015: [Going Deeper With Convolutions (Inception)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)
