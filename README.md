@@ -106,6 +106,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * :arrow_double_up: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
+* :arrow_double_up: 03/2023: [Generative Agents: Interactive Simulacra of Human Behavior (Sims Agents)](https://arxiv.org/abs/2304.03442)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
