@@ -120,7 +120,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
 * :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
 * :arrow_double_up: 11/2022: [EVA: Exploring the Limits of Masked Visual Representation Learning at Scale (EVA)](https://arxiv.org/abs/2211.07636)
-* :arrow_double_up: 12/2022: [CLIPPO: Image-and-Language Understanding from Pixels Only (CLIPPO)](https://arxiv.org/abs/2212.08045)
 * :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
 * :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 * :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
