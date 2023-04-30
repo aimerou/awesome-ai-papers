@@ -123,6 +123,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 12/2022: [CLIPPO: Image-and-Language Understanding from Pixels Only (CLIPPO)](https://arxiv.org/abs/2212.08045)
 * :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
 * :arrow_double_up: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
+* :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
