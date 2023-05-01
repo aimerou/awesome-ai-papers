@@ -102,7 +102,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 01/2023: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
 * :arrow_double_up: 02/2023: [Multimodal Chain-of-Thought Reasoning in Language Models (Multimodal-CoT)](https://arxiv.org/abs/2302.00923)
 * :arrow_double_up: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
-* :arrow_double_up: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
+* :star: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
