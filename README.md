@@ -33,7 +33,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :trophy: 2001: [Random Forests](https://link.springer.com/article/10.1023/a:1010933404324)
 * :trophy: 2001: [A fast and elitist multiobjective genetic algorithm (NSGA-II)](https://ieeexplore.ieee.org/abstract/document/996017)
 * :trophy: 2003: [Latent Dirichlet Allocation (LDA)](https://jmlr.csail.mit.edu/papers/v3/blei03a.html)
-* :trophy: 2006: [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732)
 * :trophy: 2006: [Reducing the Dimensionality of Data with Neural Networks (Autoencoder)](https://www.science.org/doi/abs/10.1126/science.1127647)
 * :trophy: 2008: [Visualizing Data using t-SNE (t-SNE)](https://www.jmlr.org/papers/v9/vandermaaten08a.html)
 * :trophy: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
