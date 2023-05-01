@@ -104,7 +104,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
 * :arrow_double_up: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
-* :arrow_double_up: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
+* :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
 * :arrow_double_up: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
 
