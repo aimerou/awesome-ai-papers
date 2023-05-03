@@ -138,6 +138,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 03/2022: [Efficient Training of Audio Transformers with Patchout (PaSST)](https://arxiv.org/abs/2110.05069)
 * :star: 05/2022: [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language... (SpeechT5)](https://arxiv.org/abs/2110.07205)
 * :star: 06/2022: [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (WavLM)](https://ieeexplore.ieee.org/abstract/document/9814838)
+* :arrow_double_up: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
 * :arrow_double_up: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :arrow_double_up: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
