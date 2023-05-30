@@ -80,6 +80,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 03/2023: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Visual ChatGPT)](https://arxiv.org/abs/2303.04671)
 * :arrow_double_up: 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * :star: 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
+* :arrow_double_up: 04/2023: [DINOv2: Learning Robust Visual Features without Supervision (DINOv2)](https://arxiv.org/abs/2304.07193)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -104,6 +105,11 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
 * :arrow_double_up: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
+* :arrow_double_up: 04/2023: [Learning to Compress Prompts with Gist Tokens](https://arxiv.org/abs/2304.08467)
+* :arrow_double_up: 05/2023: [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
+* :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+* :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
+* :arrow_double_up: 05/2023: [Gorilla: Large Language Model Connected with Massive APIs (Gorilla)](https://arxiv.org/abs/2305.15334)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
@@ -119,6 +125,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
 * :star: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 * :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
+* :arrow_double_up: 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
