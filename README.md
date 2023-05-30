@@ -106,8 +106,8 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
 * :arrow_double_up: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
 * :arrow_double_up: 04/2023: [Learning to Compress Prompts with Gist Tokens](https://arxiv.org/abs/2304.08467)
-* :arrow_double_up: 05/2023: [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
-* :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+* :arrow_double_up: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
+* :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * :arrow_double_up: 05/2023: [Gorilla: Large Language Model Connected with Massive APIs (Gorilla)](https://arxiv.org/abs/2305.15334)
 
