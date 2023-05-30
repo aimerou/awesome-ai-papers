@@ -130,7 +130,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 08/2022: [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (ANYmal)](https://arxiv.org/abs/2109.11978)
 * :star: 10/2022: [Discovering faster matrix multiplication algorithms with reinforcement learning (AlphaTensor)](https://www.nature.com/articles/s41586-022%20-05172-4)
 * :arrow_double_up: 01/2023: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
-* :arrow_double_up: 02/2023: [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills (ManiSkill2)](https://arxiv.org/abs/2302.04659v1)
 * :arrow_double_up: 04/2023: [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement... (Soccer Robot)](https://arxiv.org/abs/2304.13653)
 
 ## Audio Processing
