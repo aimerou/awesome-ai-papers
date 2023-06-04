@@ -98,7 +98,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * :newspaper: 11/2022: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 * :arrow_double_up: 01/2023: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
-* :arrow_double_up: 02/2023: [Multimodal Chain-of-Thought Reasoning in Language Models (Multimodal-CoT)](https://arxiv.org/abs/2302.00923)
 * :star: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
 * :star: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
