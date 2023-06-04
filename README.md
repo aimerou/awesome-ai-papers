@@ -154,4 +154,3 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
-* :arrow_double_up: 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
