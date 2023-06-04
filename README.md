@@ -81,6 +81,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * :star: 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * :arrow_double_up: 04/2023: [DINOv2: Learning Robust Visual Features without Supervision (DINOv2)](https://arxiv.org/abs/2304.07193)
+* :arrow_double_up: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -103,8 +104,9 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :star: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
+* :arrow_double_up: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
 * :arrow_double_up: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
-* :arrow_double_up: 04/2023: [Learning to Compress Prompts with Gist Tokens](https://arxiv.org/abs/2304.08467)
+* :arrow_double_up: 04/2023: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * :arrow_double_up: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
