@@ -143,9 +143,12 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 04/2023: [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement... (Soccer Robot)](https://arxiv.org/abs/2304.13653)
 
 ## Audio Processing
+* :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
+* :star: 02/2022: [ADD 2022: the First Audio Deep Synthesis Detection Challenge (ADD)](https://arxiv.org/abs/2202.08433)
 * :star: 03/2022: [Efficient Training of Audio Transformers with Patchout (PaSST)](https://arxiv.org/abs/2110.05069)
 * :star: 05/2022: [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language... (SpeechT5)](https://arxiv.org/abs/2110.07205)
 * :star: 06/2022: [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (WavLM)](https://ieeexplore.ieee.org/abstract/document/9814838)
+* :star: 07/2022: [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for ASR (BigSSL)](https://arxiv.org/abs/2109.13226)
 * :star: 09/2022: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
 * :arrow_double_up: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
