@@ -35,6 +35,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :trophy: 2003: [Latent Dirichlet Allocation (LDA)](https://jmlr.csail.mit.edu/papers/v3/blei03a.html)
 * :trophy: 2006: [Reducing the Dimensionality of Data with Neural Networks (Autoencoder)](https://www.science.org/doi/abs/10.1126/science.1127647)
 * :trophy: 2008: [Visualizing Data using t-SNE (t-SNE)](https://www.jmlr.org/papers/v9/vandermaaten08a.html)
+* :trophy: 2009: [ImageNet: A large-scale hierarchical image database](https://ieeexplore.ieee.org/document/5206848)
 * :trophy: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 * :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
 * :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
