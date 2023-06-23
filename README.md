@@ -157,6 +157,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :arrow_double_up: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
+* :arrow_double_up: 06/2023: [Voicebox: The first generative AI model for speech to generalize across tasks... (Voicebox)](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
