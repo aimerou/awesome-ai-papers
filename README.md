@@ -134,7 +134,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 02/2022: [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning (BC-Z)](https://proceedings.mlr.press/v164/jang22a.html)
 * :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo)](https://www.nature.com/articles/s41586-021-04357-7)
 * :star: 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning (Tokamak Control)](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
-* :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
 * :star: 08/2022: [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (ANYmal)](https://arxiv.org/abs/2109.11978)
 * :star: 10/2022: [Discovering faster matrix multiplication algorithms with reinforcement learning (AlphaTensor)](https://www.nature.com/articles/s41586-022%20-05172-4)
 * :arrow_double_up: 01/2023: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
