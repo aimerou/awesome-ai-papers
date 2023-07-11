@@ -154,10 +154,10 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
 * :arrow_double_up: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
-* :arrow_double_up: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
+* :star: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 * :arrow_double_up: 05/2023: [Scaling Speech Technology to 1,000+ Languages (MMS)](https://arxiv.org/abs/2305.13516)
-* :newspaper: 06/2023: [Voicebox: The first generative AI model for speech to generalize across tasks... (Voicebox)](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
+* :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
 
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
