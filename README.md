@@ -111,6 +111,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
+* :arrow-double_up: 06/2023: [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models (ReProver)](https://arxiv.org/abs/2306.15626)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
