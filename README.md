@@ -159,6 +159,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 * :arrow_double_up: 05/2023: [Scaling Speech Technology to 1,000+ Languages (MMS)](https://arxiv.org/abs/2305.13516)
+* :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
 
 ## Other Papers
