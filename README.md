@@ -2,14 +2,14 @@
 
 ## Description
 
-Many significant AI papers since 2022 are listed in this collection and are organized by publication date. This repository covers five fields : computer vision, natural language processing (NLP), multimodal learning, reinforcement learning and audio processing. Papers are primarily ranked by number of citations and by their degree of innovation in the field. If you have any recommendations for compelling papers, we'd be delighted to consider them. Feel free to give this repository a star if you enjoy the work.
+This repository is a list of many significant AI papers organized by publication date. It covers five fields : computer vision, natural language processing (NLP), multimodal learning, reinforcement learning and audio processing. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
 Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
 ## Taxonomy
-To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
+Papers are primarily ranked by number of citations and by their degree of innovation in the field. To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
 :trophy: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
 
