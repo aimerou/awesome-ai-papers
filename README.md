@@ -106,7 +106,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
 * :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
 * :star: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
-* :arrow_double_up: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
+* :star: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
 * :star: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
 * :star: 04/2023: [Generative Agents: Interactive Simulacra of Human  (Gen Agents)](https://arxiv.org/abs/2304.03442)
 * :star: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
