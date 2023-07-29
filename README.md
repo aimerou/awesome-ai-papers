@@ -155,7 +155,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 06/2022: [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (WavLM)](https://ieeexplore.ieee.org/abstract/document/9814838)
 * :star: 07/2022: [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for ASR (BigSSL)](https://arxiv.org/abs/2109.13226)
 * :star: 09/2022: [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143)
-* :arrow_double_up: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
+* :star: 10/2022: [High Fidelity Neural Audio Compression (EnCodec)](https://arxiv.org/abs/2210.13438)
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
 * :star: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :star: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
