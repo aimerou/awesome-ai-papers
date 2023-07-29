@@ -112,7 +112,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
-* :arrow_double_up: 06/2023: [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models (ReProver)](https://arxiv.org/abs/2306.15626)
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
 
 ## Multimodal Learning
