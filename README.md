@@ -159,7 +159,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 12/2022: [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356)
 * :star: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :star: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
-* :arrow_double_up: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
+* :star: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
 * :arrow_double_up: 05/2023: [Scaling Speech Technology to 1,000+ Languages (MMS)](https://arxiv.org/abs/2305.13516)
 * :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
