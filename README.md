@@ -144,7 +144,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 02/2023: [Grounding Large Language Models in Interactive Environments with Online RL (Grounding-LLMs)](https://arxiv.org/abs/2302.02662)
 * :arrow_double_up: 02/2023: [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
 * :arrow_double_up: 03/2023: [Reward Design with Language Models](https://arxiv.org/abs/2303.00001)
-* :arrow_double_up: 04/2023: [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement... (Soccer Robot)](https://arxiv.org/abs/2304.13653)
 * :arrow_double_up: 06/2023: [Faster sorting algorithms discovered using deep reinforcement learning (AlphaDev)](https://www.nature.com/articles/s41586-023-06004-9)
 
 ## Audio Processing
