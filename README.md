@@ -100,7 +100,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
 * :star: 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * :newspaper: 11/2022: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
-* :star: 12/2022: [Large Language Models Encode Clinical Knowledge (Med-PaLM)](Large Language Models Encode Clinical Knowledge)
+* :star: 12/2022: [Large Language Models Encode Clinical Knowledge (Med-PaLM)](https://arxiv.org/abs/2212.13138)
 * :star: 01/2023: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
 * :star: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
 * :star: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
