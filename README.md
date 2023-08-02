@@ -48,6 +48,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :trophy: 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
 * :trophy: 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
 * :trophy: 2015: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
+* :trophy: 2016: [You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
 * :trophy: 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * :trophy: 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 * :trophy: 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
