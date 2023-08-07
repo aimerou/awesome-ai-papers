@@ -111,7 +111,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
 * :star: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
 * :star: 04/2023: [Generative Agents: Interactive Simulacra of Human  (Gen Agents)](https://arxiv.org/abs/2304.03442)
-* :arrow_double_up: 05/2023: [Large Language Models Encode Clinical Knowledge (Med-PaLM 2)](https://arxiv.org/abs/2305.09617)
 * :star: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
