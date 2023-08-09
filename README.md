@@ -17,7 +17,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 
 :arrow_double_up: Trend : 1 to 50 citations, recent and innovative paper with growing adoption.
 
-:newspaper: Important Article : decisive work that was not accompanied by a research paper.
+:newspaper: Important Work : decisive work that was not accompanied by a research paper.
 
 ----
 
