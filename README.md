@@ -38,6 +38,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :trophy: 2009: [ImageNet: A large-scale hierarchical image database (ImageNet)](https://ieeexplore.ieee.org/document/5206848)
 * :trophy: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 * :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
+* :trophy: 2013: [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
 * :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
 * :trophy: 2014: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Dropout)](https://jmlr.org/papers/v15/srivastava14a.html)
 * :trophy: 2014: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
