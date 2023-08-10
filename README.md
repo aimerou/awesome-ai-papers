@@ -116,6 +116,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :arrow_double_up: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
+* :arrow_double_up: 08/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
@@ -148,6 +149,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 02/2023: [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
 * :arrow_double_up: 03/2023: [Reward Design with Language Models](https://arxiv.org/abs/2303.00001)
 * :arrow_double_up: 06/2023: [Faster sorting algorithms discovered using deep reinforcement learning (AlphaDev)](https://www.nature.com/articles/s41586-023-06004-9)
+* :arrow_double_up: 08/2023: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (Retroformer)](https://arxiv.org/abs/2308.02151)
 
 ## Audio Processing
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
