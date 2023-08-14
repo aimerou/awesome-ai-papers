@@ -132,6 +132,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 01/2023: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111)
 * :star: 01/2023: [MusicLM: Generating Music From Text (MusicLM)](https://arxiv.org/abs/2301.11325)
 * :star: 01/2023: [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models (AudioLDM)](https://arxiv.org/abs/2301.12503)
+* :arrow_double_up: [Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling (VALL-E X)](https://arxiv.org/abs/2303.03926)
 * :arrow_double_up: 05/2023: [Scaling Speech Technology to 1,000+ Languages (MMS)](https://arxiv.org/abs/2305.13516)
 * :arrow_double_up: 06/2023: [Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
 * :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
