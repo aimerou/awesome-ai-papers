@@ -118,24 +118,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
 * :arrow_double_up: 08/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
 
-## Multimodal Learning
-* :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
-* :star: 02/2022: [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and... (Data2vec)](https://proceedings.mlr.press/v162/baevski22a.html)
-* :star: 03/2022: [VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (VL-Adapter)](https://arxiv.org/abs/2112.06825)
-* :star: 04/2022: [Winoground: Probing Vision and Language Models for Visio-Linguistic... (Winoground)](https://arxiv.org/abs/2204.03162)
-* :star: 04/2022: [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198)
-* :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
-* :star: 05/2022: [CoCa: Contrastive Captioners are Image-Text Foundation Models (CoCa)](https://arxiv.org/abs/2205.01917)
-* :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
-* :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
-* :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
-* :star: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
-* :star: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
-* :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
-* :arrow_double_up: 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
-* :arrow_double_up: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
-* :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
-
 ## Audio Processing
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
 * :star: 02/2022: [ADD 2022: the First Audio Deep Synthesis Detection Challenge (ADD)](https://arxiv.org/abs/2202.08433)
@@ -155,6 +137,24 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
 * :arrow_double_up: 08/2023: [From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion](https://arxiv.org/abs/2308.02560)
+
+## Multimodal Learning
+* :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
+* :star: 02/2022: [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and... (Data2vec)](https://proceedings.mlr.press/v162/baevski22a.html)
+* :star: 03/2022: [VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (VL-Adapter)](https://arxiv.org/abs/2112.06825)
+* :star: 04/2022: [Winoground: Probing Vision and Language Models for Visio-Linguistic... (Winoground)](https://arxiv.org/abs/2204.03162)
+* :star: 04/2022: [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198)
+* :star: 05/2022: [A Generalist Agent (Gato)](https://arxiv.org/abs/2205.06175)
+* :star: 05/2022: [CoCa: Contrastive Captioners are Image-Text Foundation Models (CoCa)](https://arxiv.org/abs/2205.01917)
+* :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
+* :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
+* :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
+* :star: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
+* :star: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
+* :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
+* :arrow_double_up: 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
+* :arrow_double_up: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
+* :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
