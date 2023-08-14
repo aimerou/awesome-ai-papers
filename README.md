@@ -154,6 +154,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 06/2023: [Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
 * :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
+* :arrow_double_up: 08/2023: [From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion](https://arxiv.org/abs/2308.02560)
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
