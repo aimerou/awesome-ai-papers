@@ -138,6 +138,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
 * :arrow_double_up: 08/2023: [From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion](https://arxiv.org/abs/2308.02560)
+* :arrow_double_up: 08/2023: [SpeechX: Neural Codec Language Model as a Versatile Speech Transformer (SpeechX)](https://arxiv.org/abs/2308.06873)
 
 ## Multimodal Learning
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
