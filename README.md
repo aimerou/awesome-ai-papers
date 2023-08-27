@@ -117,7 +117,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
 * :arrow_double_up: 08/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
-* :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
+* :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 
 ## Audio Processing
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
