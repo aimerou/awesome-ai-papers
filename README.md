@@ -160,10 +160,10 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 08/2023: [Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596v2)
 
 ## Reinforcement Learning
-* :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild (Robot Locomotion)](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
+* :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * :star: 01/2022: [Decision making of autonomous vehicles in lane change scenarios: Deep RL approaches...](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004411)
 * :star: 02/2022: [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://proceedings.mlr.press/v164/jang22a.html)
-* :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Gran Turismo)](https://www.nature.com/articles/s41586-021-04357-7)
+* :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7)
 * :star: 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
 * :star: 08/2022: [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (ANYmal)](https://arxiv.org/abs/2109.11978)
 * :star: 10/2022: [Discovering faster matrix multiplication algorithms with reinforcement learning (AlphaTensor)](https://www.nature.com/articles/s41586-022%20-05172-4)
