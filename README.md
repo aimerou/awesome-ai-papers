@@ -85,7 +85,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * :arrow_double_up: 04/2023: [DINOv2: Learning Robust Visual Features without Supervision (DINOv2)](https://arxiv.org/abs/2304.07193)
 * :arrow_double_up: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
-* :arrow_double_up: 04/2023: [Segment Anything in Medical Images](https://arxiv.org/abs/2304.12306)
+* :star: 04/2023: [Segment Anything in Medical Images](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 
 ## NLP
