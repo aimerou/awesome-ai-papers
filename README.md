@@ -1,4 +1,4 @@
-# Top AI Papers - A Review ⭐️
+# Awesome AI Papers - A Review ⭐️
 
 ## Description
 
