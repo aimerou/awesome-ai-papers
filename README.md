@@ -87,7 +87,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * :star: 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
-* :newspaper: 08/2023: [FACET: Fairness in Computer Vision Evaluation Benchmark (FACET)](https://ai.meta.com/research/publications/facet-fairness-in-computer-vision-evaluation-benchmark/)
+* :arrow_double_up: 08/2023: [FACET: Fairness in Computer Vision Evaluation Benchmark (FACET)](https://ai.meta.com/research/publications/facet-fairness-in-computer-vision-evaluation-benchmark/)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -160,7 +160,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
 * :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
 * :arrow_double_up: 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
-* :newspaper: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
+* :arrow_double_up: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
 * :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
 * :arrow_double_up: 08/2023: [Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596v2)
 
