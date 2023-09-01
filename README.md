@@ -87,6 +87,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * :star: 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+* :newspaper: 08/2023: [FACET: Fairness in Computer Vision Evaluation Benchmark (FACET)](https://ai.meta.com/research/publications/facet-fairness-in-computer-vision-evaluation-benchmark/)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -116,8 +117,11 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :star: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
+* :arrow_double_up: 05/2023: [Voyager: An Open-Ended Embodied Agent with Large Language Models (Voyager)](https://arxiv.org/abs/2305.16291)
+* :arrow_double_up: 07/2023: [Communicative Agents for Software Development (ChatDev)](https://arxiv.org/abs/2307.07924)
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
-* :arrow_double_up: 08/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
+* :arrow_double_up: 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
+* :arrow_double_up: 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
 * :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 
 ## Audio Processing
