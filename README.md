@@ -81,7 +81,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 02/2023: [Scaling Vision Transformers to 22 Billion Parameters (ViT 22B)](https://arxiv.org/abs/2302.05442)
 * :star: 02/2023: [Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)](https://arxiv.org/abs/2302.05543)
 * :star: 03/2023: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Visual ChatGPT)](https://arxiv.org/abs/2303.04671)
-* :arrow_double_up: 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
+* :star: 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * :star: 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * :arrow_double_up: 04/2023: [DINOv2: Learning Robust Visual Features without Supervision (DINOv2)](https://arxiv.org/abs/2304.07193)
 * :arrow_double_up: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
