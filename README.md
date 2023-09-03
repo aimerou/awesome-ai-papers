@@ -88,6 +88,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 * :arrow_double_up: 08/2023: [FACET: Fairness in Computer Vision Evaluation Benchmark (FACET)](https://ai.meta.com/research/publications/facet-fairness-in-computer-vision-evaluation-benchmark/)
+* :arrow_double_up: 08/2023: [SAM-Med2D](https://arxiv.org/abs/2308.16184v1)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -163,6 +164,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
 * :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
 * :arrow_double_up: 08/2023: [Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596v2)
+* :arrow_double_up: 08/2023: [LLaSM: Large Language and Speech Model (LLaSM)](https://arxiv.org/abs/2308.15930v1)
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
