@@ -63,7 +63,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 03/2022: [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (DINO)](https://openreview.net/forum?id=3mRwyG5one)
 * :star: 03/2022: [Scaling Up Your Kernels to 31×31: Revisiting Large Kernel Design in CNNs (Large Kernel CNN)](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Scaling_Up_Your_Kernels_to_31x31_Revisiting_Large_Kernel_Design_CVPR_2022_paper.html)
 * :star: 03/2022: [TensoRF: Tensorial Radiance Fields (TensoRF)](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_20)
-* :star: 04/2022: [Swin Transformer V2: Scaling Up Capacity and Resolution (Swin-T V2)](https://arxiv.org/abs/2111.09883)
+* :star: 04/2022: [MaxViT: Multi-Axis Vision Transformer (MaxViT)](https://arxiv.org/abs/2204.01697)
 * :star: 04/2022: [Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2)](https://arxiv.org/abs/2204.06125)
 * :star: 05/2022: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen)](https://arxiv.org/abs/2205.11487)
 * :star: 05/2022: [GIT: A Generative Image-to-text Transformer for Vision and Language (GIT)](https://arxiv.org/abs/2205.14100)
