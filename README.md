@@ -119,7 +119,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :star: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * :arrow_double_up: 05/2023: [Voyager: An Open-Ended Embodied Agent with Large Language Models (Voyager)](https://arxiv.org/abs/2305.16291)
-* :arrow_double_up: 07/2023: [Communicative Agents for Software Development (ChatDev)](https://arxiv.org/abs/2307.07924)
 * :arrow_double_up: 07/2023: [Retentive Network: A Successor to Transformer for Large Language Models (RetNet)](https://arxiv.org/abs/2307.08621)
 * :arrow_double_up: 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
 * :arrow_double_up: 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
