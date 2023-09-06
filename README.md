@@ -167,7 +167,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 
 ## Reinforcement Learning
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
-* :star: 01/2022: [Decision making of autonomous vehicles in lane change scenarios: Deep Reinforcement Learning...](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004411)
+* :star: 01/2022: [Decision making of autonomous vehicles in lane change scenarios: Deep Reinforcement...](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21004411)
 * :star: 02/2022: [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://proceedings.mlr.press/v164/jang22a.html)
 * :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7)
 * :star: 02/2022: [Magnetic control of tokamak plasmas through deep reinforcement learning](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)
