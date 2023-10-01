@@ -88,7 +88,6 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 * :arrow_double_up: 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
-* :arrow_double_up: 08/2023: [SAM-Med2D](https://arxiv.org/abs/2308.16184v1)
 
 ## NLP
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
