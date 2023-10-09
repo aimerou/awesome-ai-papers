@@ -183,3 +183,4 @@ Papers are primarily ranked by number of citations and by their degree of innova
 ## Other Papers
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
+* :star: 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
