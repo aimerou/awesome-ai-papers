@@ -122,7 +122,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
 * :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 * :arrow_double_up: 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
-* :arrow_double_up: 09/2023: [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
+* :arrow_double_up: 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
 
 ## Audio Processing
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
