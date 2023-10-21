@@ -102,6 +102,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 04/2022: [PaLM: Scaling Language Modeling with Pathways (PaLM)](https://arxiv.org/abs/2204.02311)
 * :star: 06/2022: [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of lang... (BIG-bench)](https://arxiv.org/abs/2206.04615)
 * :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
+* :star: 10/2022: [ReAct: Synergizing Reasoning and Acting in Language Models (ReAct)](https://arxiv.org/abs/2210.03629)
 * :star: 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * :newspaper: 11/2022: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 * :star: 12/2022: [Large Language Models Encode Clinical Knowledge (Med-PaLM)](https://arxiv.org/abs/2212.13138)
