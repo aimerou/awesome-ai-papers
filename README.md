@@ -73,11 +73,14 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 08/2022: [Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (DreamBooth)](https://arxiv.org/abs/2208.12242)
 * :star: 09/2022: [DreamFusion: Text-to-3D using 2D Diffusion (DreamFusion)](https://arxiv.org/abs/2209.14988)
 * :star: 09/2022: [Make-A-Video: Text-to-Video Generation without Text-Video Data (Make-A-Video)](https://arxiv.org/abs/2209.14792)
+* :star: 10/2022: [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142)
 * :star: 10/2022: [LAION-5B: An open large-scale dataset for training next generation image-text models (LAION-5B)](https://arxiv.org/abs/2210.08402)
 * :star: 11/2022: [Visual Prompt Tuning](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_41)
+* :star: 11/2022: [DiffusionDet: Diffusion Model for Object Detection (DiffusionDet)](https://arxiv.org/abs/2211.09788)
 * :star: 11/2022: [InstructPix2Pix: Learning to Follow Image Editing Instructions (InstructPix2Pix)](https://arxiv.org/abs/2211.09800)
 * :star: 12/2022: [Scalable Diffusion Models with Transformers (DiT)](https://arxiv.org/abs/2212.09748)
 * :star: 01/2023: [Muse: Text-To-Image Generation via Masked Generative Transformers (Muse)](https://arxiv.org/abs/2301.00704)
+* :star: 02/2023: [Structure and Content-Guided Video Synthesis with Diffusion Models (Gen-1)](https://arxiv.org/abs/2302.03011)
 * :star: 02/2023: [Scaling Vision Transformers to 22 Billion Parameters (ViT 22B)](https://arxiv.org/abs/2302.05442)
 * :star: 02/2023: [Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)](https://arxiv.org/abs/2302.05543)
 * :star: 03/2023: [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (Visual ChatGPT)](https://arxiv.org/abs/2303.04671)
@@ -87,6 +90,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * :star: 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+* :arrow_double_up: 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * :arrow_double_up: 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
 
 ## NLP
