@@ -136,6 +136,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
 * :star: 02/2022: [ADD 2022: the First Audio Deep Synthesis Detection Challenge (ADD)](https://arxiv.org/abs/2202.08433)
 * :star: 03/2022: [Efficient Training of Audio Transformers with Patchout (PaSST)](https://arxiv.org/abs/2110.05069)
+* :star: 04/2022: [MAESTRO: Matched Speech Text Representations through Modality Matching (Maestro)](https://arxiv.org/abs/2204.03409)
 * :star: 05/2022: [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language... (SpeechT5)](https://arxiv.org/abs/2110.07205)
 * :star: 06/2022: [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing (WavLM)](https://ieeexplore.ieee.org/abstract/document/9814838)
 * :star: 07/2022: [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for ASR (BigSSL)](https://arxiv.org/abs/2109.13226)
