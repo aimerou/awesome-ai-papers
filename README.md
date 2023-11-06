@@ -1,7 +1,6 @@
 # Awesome AI Papers ⭐️
 
 ## Description
-
 This repository is an up-to-date list of significant AI papers organized by publication date. It covers five fields : computer vision, natural language processing, audio processing, multimodal learning and reinforcement learning. Feel free to give this repository a star if you enjoy the work.
 
 Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
@@ -19,9 +18,18 @@ Papers are primarily ranked by number of citations and by their degree of innova
 
 :newspaper: Important Article : decisive work that was not accompanied by a research paper.
 
+## Table of Contents
+- [Historical Papers](#1)
+- [Computer Vision](#2)
+- [Natural Language Processing](#3)
+- [Audio Processing](#4)
+- [Multimodal Learning](#5)
+- [Reinforcement Learning](#6)
+- [Other Papers](#7)
+
 ----
 
-## Historical Papers
+## Historical Papers <a name="1"></a>
 * :trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 * :trophy: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 * :trophy: 1986: [Induction of decision trees (CART)](https://link.springer.com/article/10.1007/BF00116251)
@@ -56,7 +64,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :trophy: 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
 * :newspaper: 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 
-## Computer Vision
+## Computer Vision <a name="2"></a>
 * :star: 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
 * :star: 01/2022: [Patches Are All You Need (ConvMixer)](https://arxiv.org/abs/2201.09792)
 * :star: 02/2022: [Block-NeRF: Scalable Large Scene Neural View Synthesis (Block-NeRF)](https://openaccess.thecvf.com/content/CVPR2022/html/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.html)
@@ -96,7 +104,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * :arrow_double_up: 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
 
-## NLP
+## NLP <a name="3"></a>
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
 * :star: 01/2022: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (CoT)](https://arxiv.org/abs/2201.11903)
 * :star: 02/2022: [Competition-Level Code Generation with AlphaCode (AlphaCode)](https://www.science.org/doi/full/10.1126/science.abq1158)
@@ -132,7 +140,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
 * :arrow_double_up: 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
 
-## Audio Processing
+## Audio Processing <a name="4"></a>
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
 * :star: 02/2022: [ADD 2022: the First Audio Deep Synthesis Detection Challenge (ADD)](https://arxiv.org/abs/2202.08433)
 * :star: 03/2022: [Efficient Training of Audio Transformers with Patchout (PaSST)](https://arxiv.org/abs/2110.05069)
@@ -155,7 +163,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
 * :arrow_double_up: 08/2023: [SpeechX: Neural Codec Language Model as a Versatile Speech Transformer (SpeechX)](https://arxiv.org/abs/2308.06873)
 
-## Multimodal Learning
+## Multimodal Learning <a name="5"></a>
 * :star: 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
 * :star: 02/2022: [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and... (Data2vec)](https://proceedings.mlr.press/v162/baevski22a.html)
 * :star: 03/2022: [VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (VL-Adapter)](https://arxiv.org/abs/2112.06825)
@@ -174,7 +182,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
 * :arrow_double_up: 08/2023: [Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596v2)
 
-## Reinforcement Learning
+## Reinforcement Learning <a name="6"></a>
 * :star: 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
 * :star: 02/2022: [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://proceedings.mlr.press/v164/jang22a.html)
 * :star: 02/2022: [Outracing champion Gran Turismo drivers with deep reinforcement learning (Sophy)](https://www.nature.com/articles/s41586-021-04357-7)
@@ -188,7 +196,7 @@ Papers are primarily ranked by number of citations and by their degree of innova
 * :arrow_double_up: 06/2023: [Faster sorting algorithms discovered using deep reinforcement learning (AlphaDev)](https://www.nature.com/articles/s41586-023-06004-9)
 * :arrow_double_up: 08/2023: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (Retroformer)](https://arxiv.org/abs/2308.02151)
 
-## Other Papers
+## Other Papers <a name="7"></a>
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * :star: 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
