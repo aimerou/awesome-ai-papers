@@ -8,7 +8,7 @@ Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
 ## Taxonomy
-Papers are primarily ranked by number of citations and by their degree of innovation in the field. To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
+To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
 :trophy: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
 
