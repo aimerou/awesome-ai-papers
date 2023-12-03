@@ -10,7 +10,7 @@ Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
-🏆 Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
+:trophy: Historical Paper : more than 10k citations and a decisive impact in the evolution of AI.
 
 :star: Important Paper : more than 50 citations and state of the art results.
 
@@ -30,7 +30,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ----
 
 ## Historical Papers <a name="1"></a>
-* :trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
+:trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 * :trophy: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 * :trophy: 1986: [Induction of decision trees (CART)](https://link.springer.com/article/10.1007/BF00116251)
 * :trophy: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
