@@ -101,8 +101,8 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * ⭐ 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * ⏫ 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
-* ⏫ 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
-* ⏫ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
+* ⭐ 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
+* ⭐ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
 * ⏫ 11/2023: [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (Florence-2)](https://arxiv.org/abs/2311.06242)
 
 ## NLP <a name="3"></a>
@@ -135,9 +135,9 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * ⭐ 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * ⭐ 05/2023: [Voyager: An Open-Ended Embodied Agent with Large Language Models (Voyager)](https://arxiv.org/abs/2305.16291)
-* ⏫ 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
-* ⏫ 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
-* ⏫ 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
+* ⭐ 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
+* ⭐ 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
+* ⭐ 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 * ⏫ 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
 * ⏫ 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
 
@@ -162,7 +162,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⏫ 06/2023: [Simple and Controllable Music Generation (MusicGen)](https://arxiv.org/abs/2306.05284)
 * ⏫ 06/2023: [AudioPaLM: A Large Language Model That Can Speak and Listen (AudioPaLM)](https://arxiv.org/abs/2306.12925)
 * ⏫ 06/2023: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale (Voicebox)](https://arxiv.org/abs/2306.15687)
-* ⏫ 08/2023: [SpeechX: Neural Codec Language Model as a Versatile Speech Transformer (SpeechX)](https://arxiv.org/abs/2308.06873)
 
 ## Multimodal Learning <a name="5"></a>
 * ⭐ 01/2022: [BLIP: Boostrapping Language-Image Pre-training for Unified Vision-Language... (BLIP)](https://proceedings.mlr.press/v162/li22n.html)
@@ -181,7 +180,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⏫ 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
 * ⏫ 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
 * ⏫ 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
-* ⏫ 08/2023: [Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596v2)
 
 ## Reinforcement Learning <a name="6"></a>
 * ⭐ 01/2022: [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822)
