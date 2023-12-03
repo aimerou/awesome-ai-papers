@@ -103,6 +103,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 * :arrow_double_up: 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * :arrow_double_up: 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
+* :arrow_double_up: 11/2023: [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (Florence-2)](https://arxiv.org/abs/2311.06242)
 
 ## NLP <a name="3"></a>
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
@@ -200,3 +201,5 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * :star: 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
+* :star: 07/2023: [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control (RT-2)](https://arxiv.org/abs/2307.15818)
+* :star: 11/2023: [Scaling deep learning for materials discovery (GNoME)](https://www.nature.com/articles/s41586-023-06735-9)
