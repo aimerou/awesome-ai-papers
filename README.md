@@ -3,9 +3,7 @@
 ## Description
 This repository is an up-to-date list of significant AI papers organized by publication date. It covers five fields : computer vision, natural language processing, audio processing, multimodal learning and reinforcement learning. Feel free to give this repository a star if you enjoy the work.
 
-Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
-
-Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
+Maintainer: [Aimerou Ndiaye](https://twitter.com/AmrouNdiaye1)
 
 ## Table of Contents
 - [Historical Papers](#1)
