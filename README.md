@@ -134,14 +134,14 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * ⭐ 05/2023: [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (ToT)](https://arxiv.org/abs/2305.10601)
 * ⭐ 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
-* ⭐ 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)]([https://arxiv.org/abs/2305.14314](https://arxiv.org/abs/2305.14314))
+* ⭐ 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * ⭐ 05/2023: [Voyager: An Open-Ended Embodied Agent with Large Language Models (Voyager)](https://arxiv.org/abs/2305.16291)
 * ⭐ 07/2023: [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)
 * ⭐ 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
 * ⭐ 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
 * ⭐ 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 * ⏫ 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
-* ⏫ 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
+* ⭐ 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
 
 ## Audio Processing <a name="4"></a>
 * ⭐ 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
