@@ -7,6 +7,15 @@ Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
 
 Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
 
+## Table of Contents
+- [Historical Papers](#1)
+- [Computer Vision](#2)
+- [Natural Language Processing](#3)
+- [Audio Processing](#4)
+- [Multimodal Learning](#5)
+- [Reinforcement Learning](#6)
+- [Other Papers](#7)
+
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
 
@@ -17,15 +26,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ⏫ Trend : 1 to 50 citations, recent and innovative paper with growing adoption.
 
 📰 Important Article : decisive work that was not accompanied by a research paper.
-
-## Table of Contents
-- [Historical Papers](#1)
-- [Computer Vision](#2)
-- [Natural Language Processing](#3)
-- [Audio Processing](#4)
-- [Multimodal Learning](#5)
-- [Reinforcement Learning](#6)
-- [Other Papers](#7)
 
 ----
 
