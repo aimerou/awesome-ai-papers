@@ -200,5 +200,6 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * ⭐ 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * ⭐ 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
+* ⭐ 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
 * ⭐ 07/2023: [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control (RT-2)](https://arxiv.org/abs/2307.15818)
 * ⏫ 11/2023: [Scaling deep learning for materials discovery (GNoME)](https://www.nature.com/articles/s41586-023-06735-9)
