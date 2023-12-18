@@ -101,6 +101,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⏫ 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 * ⭐ 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * ⭐ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
+* ⏫ 08/2023: [MVDream: Multi-view Diffusion for 3D Generation (MVDream)](https://arxiv.org/abs/2308.16512)
 * ⏫ 11/2023: [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (Florence-2)](https://arxiv.org/abs/2311.06242)
 
 ## NLP <a name="3"></a>
