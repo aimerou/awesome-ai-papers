@@ -140,6 +140,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 * ⏫ 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
 * ⭐ 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
+* ⏫ 12/2023: [Mathematical discoveries from program search with large language models (FunSearch)](https://www.nature.com/articles/s41586-023-06924-6?utm_source=substack&utm_medium=email)
 
 ## Audio Processing <a name="4"></a>
 * ⭐ 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
