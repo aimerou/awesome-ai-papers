@@ -35,7 +35,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 ----
 
-## 1. 2023 Papers <a name="2023"></a>
+## 2023 Papers <a name="2023"></a>
 
 ### Computer Vision <a name="2023cv"></a>
 * ⭐ 01/2023: [Muse: Text-To-Image Generation via Masked Generative Transformers (Muse)](https://arxiv.org/abs/2301.00704)
@@ -112,7 +112,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 
 
-## 2. 2022 Papers <a name="2022"></a>
+## 2022 Papers <a name="2022"></a>
 
 ### Computer Vision <a name="2022cv"></a>
 * ⭐ 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
@@ -200,7 +200,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 
 
-## 3. Historical Papers <a name="history"></a>
+## Historical Papers <a name="history"></a>
 * 🏆 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 * 🏆 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 * 🏆 1986: [Induction of decision trees (CART)](https://link.springer.com/article/10.1007/BF00116251)
