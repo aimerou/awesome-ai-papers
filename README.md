@@ -59,6 +59,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * 🏆 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * 🏆 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 * 🏆 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+* 🏆 2020: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929)
 * 🏆 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
 * 📰 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 
@@ -95,6 +96,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 03/2023: [Scaling up GANs for Text-to-Image Synthesis (GigaGAN)](https://arxiv.org/abs/2303.05511)
 * ⭐ 04/2023: [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 * ⭐ 04/2023: [DINOv2: Learning Robust Visual Features without Supervision (DINOv2)](https://arxiv.org/abs/2304.07193)
+* ⭐ 04/2023: [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 * ⭐ 04/2023: [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models (VideoLDM)](https://arxiv.org/abs/2304.08818)
 * ⭐ 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * ⭐ 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
@@ -197,8 +199,10 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⏫ 08/2023: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (Retroformer)](https://arxiv.org/abs/2308.02151)
 
 ## Other Papers <a name="7"></a>
+* ⭐ 02/2022: [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier... (FourCastNet)](https://arxiv.org/abs/2202.11214)
 * ⭐ 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * ⭐ 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
+* ⭐ 10/2022: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis (TimesNet)](https://arxiv.org/abs/2210.02186)
 * ⭐ 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
 * ⭐ 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
 * ⭐ 07/2023: [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control (RT-2)](https://arxiv.org/abs/2307.15818)
