@@ -199,7 +199,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⏫ 08/2023: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (Retroformer)](https://arxiv.org/abs/2308.02151)
 
 ## Other Papers <a name="7"></a>
-* ⭐ 02/2022: [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier... (FourCastNet)](https://arxiv.org/abs/2202.11214)
+* ⭐ 02/2022: [FourCastNet: A Global Data-driven High-resolution Weather Model... (FourCastNet)](https://arxiv.org/abs/2202.11214)
 * ⭐ 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
 * ⭐ 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * ⭐ 10/2022: [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis (TimesNet)](https://arxiv.org/abs/2210.02186)
