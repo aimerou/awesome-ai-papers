@@ -51,6 +51,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * ⭐ 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
 * ⏫ 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+* ⭐ 06/2023: [Neuralangelo: High-Fidelity Neural Surface Reconstruction (Neuralangelo)](https://arxiv.org/abs/2306.03092)
 * ⭐ 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * ⭐ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
 * ⏫ 08/2023: [MVDream: Multi-view Diffusion for 3D Generation (MVDream)](https://arxiv.org/abs/2308.16512)
@@ -77,6 +78,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
 * ⏫ 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
 * ⭐ 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
+* ⏫ 10/2023: [Eureka: Human-Level Reward Design via Coding Large Language Models (Eureka)](https://arxiv.org/abs/2310.12931)
 * ⏫ 12/2023: [Mathematical discoveries from program search with large language models (FunSearch)](https://www.nature.com/articles/s41586-023-06924-6?utm_source=substack&utm_medium=email)
 
 ### Audio Processing <a name="2023ap"></a>
@@ -138,6 +140,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 10/2022: [LAION-5B: An open large-scale dataset for training next generation image-text models (LAION-5B)](https://arxiv.org/abs/2210.08402)
 * ⭐ 10/2022: [Imagic: Text-Based Real Image Editing with Diffusion Models (Imagic)](https://arxiv.org/abs/2210.09276)
 * ⭐ 11/2022: [Visual Prompt Tuning](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_41)
+* ⭐ 11/2022: [Magic3D: High-Resolution Text-to-3D Content Creation (Magic3D)](https://arxiv.org/abs/2211.10440)
 * ⭐ 11/2022: [DiffusionDet: Diffusion Model for Object Detection (DiffusionDet)](https://arxiv.org/abs/2211.09788)
 * ⭐ 11/2022: [InstructPix2Pix: Learning to Follow Image Editing Instructions (InstructPix2Pix)](https://arxiv.org/abs/2211.09800)
 * ⭐ 12/2022: [Multi-Concept Customization of Text-to-Image Diffusion (Custom Diffusion)](https://arxiv.org/abs/2212.04488)
