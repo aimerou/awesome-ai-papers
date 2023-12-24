@@ -55,6 +55,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
 * ⏫ 08/2023: [MVDream: Multi-view Diffusion for 3D Generation (MVDream)](https://arxiv.org/abs/2308.16512)
 * ⏫ 11/2023: [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (Florence-2)](https://arxiv.org/abs/2311.06242)
+* ⏫ 12/2023: [VideoPoet: A Large Language Model for Zero-Shot Video Generation (VideoPoet)](https://arxiv.org/abs/2312.14125)
 
 ### NLP <a name="2023nlp"></a>
 * ⭐ 01/2023: [DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature (DetectGPT)](https://arxiv.org/abs/2301.11305)
@@ -109,6 +110,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 02/2023: [Symbolic Discovery of Optimization Algorithms (Lion)](https://arxiv.org/abs/2302.06675)
 * ⭐ 07/2023: [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control (RT-2)](https://arxiv.org/abs/2307.15818)
 * ⏫ 11/2023: [Scaling deep learning for materials discovery (GNoME)](https://www.nature.com/articles/s41586-023-06735-9)
+* ⏫ 12/2023: [Discovery of a structural class of antibiotics with explainable deep learning](https://www.nature.com/articles/s41586-023-06887-8)
 
 
 
