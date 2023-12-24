@@ -96,6 +96,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
 * ⏫ 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
 * ⏫ 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
+* ⏫ 08/2023: [SeamlessM4T: Massively Multilingual & Multimodal Machine Translation (SeamlessM4T)](https://arxiv.org/abs/2308.11596)
 
 ### Reinforcement Learning <a name="2023rl"></a>
 * ⭐ 01/2023: [Mastering Diverse Domains through World Models (DreamerV3)](https://arxiv.org/abs/2301.04104)
