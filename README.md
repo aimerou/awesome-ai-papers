@@ -50,7 +50,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ 04/2023: [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models (VideoLDM)](https://arxiv.org/abs/2304.08818)
 * ⭐ 04/2023: [Synthetic Data from Diffusion Models Improves ImageNet Classification](https://arxiv.org/abs/2304.08466)
 * ⭐ 04/2023: [Segment Anything in Medical Images (MedSAM)](https://arxiv.org/abs/2304.12306)
-* ⏫ 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+* ⭐ 05/2023: [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
 * ⭐ 06/2023: [Neuralangelo: High-Fidelity Neural Surface Reconstruction (Neuralangelo)](https://arxiv.org/abs/2306.03092)
 * ⭐ 07/2023: [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952)
 * ⭐ 08/2023: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/abs/10.1145/3592433)
