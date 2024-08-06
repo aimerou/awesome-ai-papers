@@ -241,6 +241,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * 🏆 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 * 🏆 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 * 🏆 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+* 🏆 2020: [Denoising Diffusion Probabilistic Models (DDPM)](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
 * 🏆 2020: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929)
 * 🏆 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
 * 📰 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
